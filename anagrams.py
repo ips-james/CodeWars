@@ -14,4 +14,4 @@ def anagrams(word, words):
 
 print(anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']))
 print(anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']))
-print(anagrams('laser', ['lazing', 'lazy',  'lacer']))
+print(anagrams('laser', ['lazing', 'lazy', 'lacer']))
